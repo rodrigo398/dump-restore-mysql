@@ -1,0 +1,18 @@
+{
+  "name": "mysql_dump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "mv": "^2.1.1",
+    "node-ssh": "^4.1.0",
+    "scp2": "^0.5.0",
+    "smart-zip": "0.0.9"
+  }
+}
